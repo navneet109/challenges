@@ -28,14 +28,15 @@ Terraform
 
 # Steps to spin Architechture
 
-Clone the project 
+1. Clone the project 
 - `git clone https://github.com/navneet109/challenges.git`
 
-Installing the AWS CLI.
-then add AWS API keys to /home/markb/.aws/credentials under default profile
-Run "terraform init"
-Run "Terraform plan" 
-Run "Terraform Apply"
+2. Installing the AWS CLI.
+3. then add AWS API keys to /home/markb/.aws/credentials under default profile
+4. cd Challenge1
+5. Run "terraform init"
+6. Run "Terraform plan" 
+7. Run "Terraform Apply"
 
 
 # What else can be done to secure the achutechutre
