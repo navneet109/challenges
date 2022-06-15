@@ -10,7 +10,7 @@
 - Install Python 3 and git on your instance 
     - `sudo yum install python3 git`
 - Clone the repository
-  - `git clone https://github.com/navneet109/challenges/Challenge2`
+  - `git clone https://github.com/navneet109/challenges.git`
 - Install pipenv
   - `sudo pip3 install pipenv`
 - Open the repository on your instance
@@ -21,7 +21,7 @@
 
 ## How to run
 - Open the `src` folder
-  - `cd aws-metadata-json/src`
+  - `cd Challenge2/src`
 - Run script you need:
   - `python3 get_instance_metadata.py`
   - `python3 get_key.py`
