@@ -41,6 +41,7 @@ Terraform
 
 # What else can be done to secure the achutechutre
 
->Encrypt DB password using KMS keys/Hashicorp Vault
->Use s3 as backend to store tfstate file.
->Use DynamoDB table for maintaing lock on tfstate file.
+- Encrypt DB password using KMS keys/Hashicorp Vault
+- Use s3 as backend to store tfstate file.
+- Use DynamoDB table for maintaing lock on tfstate file.
+- put Bastion instances under Autoscaling and behind NLB
