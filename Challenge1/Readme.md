@@ -39,7 +39,7 @@ Terraform
 7. Run "Terraform Apply"
 
 
-# What else can be done to secure the achutechutre
+# What else can be done to secure the Architechture
 
 - Encrypt DB password using KMS keys/Hashicorp Vault
 - Use s3 as backend to store tfstate file.
