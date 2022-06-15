@@ -46,8 +46,8 @@ I am going to use Mocha javascript testing framework to do the unit testing
  # Environment
 
  - Clone the project
-- `git clone https://github.com/navneet109/challenges/Challenge3`
-
+- `git clone https://github.com/navneet109/challenges.git`
+ - cd challenge3
  - Install dependencies using 
  >npm install
  - Test the project
